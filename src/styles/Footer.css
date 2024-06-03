@@ -1,0 +1,9 @@
+.footer {
+  padding: 1rem 2rem;
+  background: rgba(0, 0, 0, 0.7); /* Semi-transparent overlay */
+  text-align: center;
+  color: white;
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  font-family: 'Arial', sans-serif;
+  font-size: 0.9rem;
+}
