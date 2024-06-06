@@ -9,12 +9,10 @@ import Contact from './components/Contact';
 import Cart from './components/Cart';
 import './App.css';
 
-
 const App = () => {
-  const products = [
-  ];
+  const products = [];
   return (
-    <Router>
+    <Router basename="/The-King-s-Man">
       <div className="background"></div>
       <Header /> 
       <div className="main-content">
