@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/The-King-s-Man/static/css/main.f551f045.chunk.css",
-    "main.js": "/The-King-s-Man/static/js/main.b4d8b136.chunk.js",
-    "main.js.map": "/The-King-s-Man/static/js/main.b4d8b136.chunk.js.map",
+    "main.js": "/The-King-s-Man/static/js/main.6286437c.chunk.js",
+    "main.js.map": "/The-King-s-Man/static/js/main.6286437c.chunk.js.map",
     "runtime-main.js": "/The-King-s-Man/static/js/runtime-main.b52f4678.js",
     "runtime-main.js.map": "/The-King-s-Man/static/js/runtime-main.b52f4678.js.map",
     "static/js/2.e54179bc.chunk.js": "/The-King-s-Man/static/js/2.e54179bc.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b52f4678.js",
     "static/js/2.e54179bc.chunk.js",
     "static/css/main.f551f045.chunk.css",
-    "static/js/main.b4d8b136.chunk.js"
+    "static/js/main.6286437c.chunk.js"
   ]
 }
