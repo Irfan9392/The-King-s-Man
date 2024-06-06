@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-King-s-Man/static/css/main.f551f045.chunk.css",
+    "main.js": "/The-King-s-Man/static/js/main.6286437c.chunk.js",
+    "main.js.map": "/The-King-s-Man/static/js/main.6286437c.chunk.js.map",
+    "runtime-main.js": "/The-King-s-Man/static/js/runtime-main.b52f4678.js",
+    "runtime-main.js.map": "/The-King-s-Man/static/js/runtime-main.b52f4678.js.map",
+    "static/js/2.e54179bc.chunk.js": "/The-King-s-Man/static/js/2.e54179bc.chunk.js",
+    "static/js/2.e54179bc.chunk.js.map": "/The-King-s-Man/static/js/2.e54179bc.chunk.js.map",
+    "index.html": "/The-King-s-Man/index.html",
+    "static/css/main.f551f045.chunk.css.map": "/The-King-s-Man/static/css/main.f551f045.chunk.css.map",
+    "static/js/2.e54179bc.chunk.js.LICENSE.txt": "/The-King-s-Man/static/js/2.e54179bc.chunk.js.LICENSE.txt",
+    "static/media/Blazer_1.ac4ddf66.jpg": "/The-King-s-Man/static/media/Blazer_1.ac4ddf66.jpg",
+    "static/media/Sherwani_1.19724b5f.jpg": "/The-King-s-Man/static/media/Sherwani_1.19724b5f.jpg",
+    "static/media/App.css": "/The-King-s-Man/static/media/Tailor_1.5ada4f75.JPG",
+    "static/media/black-background.0a9fe67a.jpg": "/The-King-s-Man/static/media/black-background.0a9fe67a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b52f4678.js",
+    "static/js/2.e54179bc.chunk.js",
+    "static/css/main.f551f045.chunk.css",
+    "static/js/main.6286437c.chunk.js"
+  ]
+}

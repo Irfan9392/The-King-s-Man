@@ -95,4 +95,62 @@ main {
 .product-card button:hover {
   background-color: darkgreen;
 }
+
+/* Example CSS for Responsive Design */
+
+/* Mobile Styles */
+body {
+  font-size: 14px;
+}
+
+.header {
+  padding: 10px;
+  text-align: center;
+}
+
+/* Medium Devices (Tablets) */
+@media (min-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+
+  .header {
+    padding: 15px;
+  }
+}
+
+/* Large Devices (Desktops) */
+@media (min-width: 992px) {
+  body {
+    font-size: 18px;
+  }
+
+  .header {
+    padding: 20px;
+  }
+}
+
+/* Example CSS using Flexbox */
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.item {
+  flex: 1 1 100%; /* Default to full width on mobile */
+}
+
+@media (min-width: 600px) {
+  .item {
+    flex: 1 1 50%; /* Two columns on tablets */
+  }
+}
+
+@media (min-width: 992px) {
+  .item {
+    flex: 1 1 33.33%; /* Three columns on desktops */
+  }
+}
+
+
   
