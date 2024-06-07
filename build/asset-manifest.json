@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14377867.chunk.css",
+    "main.js": "/static/js/main.6286437c.chunk.js",
+    "main.js.map": "/static/js/main.6286437c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0445f421.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0445f421.js.map",
+    "static/js/2.e54179bc.chunk.js": "/static/js/2.e54179bc.chunk.js",
+    "static/js/2.e54179bc.chunk.js.map": "/static/js/2.e54179bc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.14377867.chunk.css.map": "/static/css/main.14377867.chunk.css.map",
+    "static/js/2.e54179bc.chunk.js.LICENSE.txt": "/static/js/2.e54179bc.chunk.js.LICENSE.txt",
+    "static/media/Blazer_1.ac4ddf66.jpg": "/static/media/Blazer_1.ac4ddf66.jpg",
+    "static/media/Sherwani_1.19724b5f.jpg": "/static/media/Sherwani_1.19724b5f.jpg",
+    "static/media/App.css": "/static/media/Tailor_1.5ada4f75.JPG",
+    "static/media/black-background.0a9fe67a.jpg": "/static/media/black-background.0a9fe67a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0445f421.js",
+    "static/js/2.e54179bc.chunk.js",
+    "static/css/main.14377867.chunk.css",
+    "static/js/main.6286437c.chunk.js"
+  ]
+}
