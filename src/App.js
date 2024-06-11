@@ -12,7 +12,7 @@ import './App.css';
 const App = () => {
   const products = [];
   return (
-    <Router basename="/The-King-s-Man">
+    <Router basename="/">
       <div className="background"></div>
       <Header /> 
       <div className="main-content">
